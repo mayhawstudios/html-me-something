@@ -1,0 +1,47 @@
+body {
+    font-family: 'Droid Serif', serif;
+}
+
+main {
+    width:70%;
+    margin:auto;
+}
+
+img {
+    width:100%;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans', sans-serif;
+    color:rgba(0,0,0,.8);
+}
+
+h1 {
+    font-size:3.5em;
+    text-align:center;
+}
+
+h2 {
+    font-size:2em;
+}
+
+p {
+    font-size:1.2em;
+    width:80%;
+    margin:auto;
+    line-height:2em;
+}
+
+#drop-cap{
+    color:rgba(0,0,0,.8);
+    font-size:4em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:700;
+    float:left;
+    padding-top:.2em;
+    padding-right:.1em;
+    
+}
+
+footer {
+    text-align:center;
+}
